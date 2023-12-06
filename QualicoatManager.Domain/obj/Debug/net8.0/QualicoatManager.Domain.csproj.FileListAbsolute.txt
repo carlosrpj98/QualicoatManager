@@ -1,0 +1,11 @@
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\bin\Debug\net8.0\QualicoatManager.Domain.deps.json
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\bin\Debug\net8.0\QualicoatManager.Domain.dll
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\bin\Debug\net8.0\QualicoatManager.Domain.pdb
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\QualicoatManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\QualicoatManager.Domain.AssemblyInfoInputs.cache
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\QualicoatManager.Domain.AssemblyInfo.cs
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\QualicoatManager.Domain.csproj.CoreCompileInputs.cache
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\QualicoatManager.Domain.dll
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\refint\QualicoatManager.Domain.dll
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\QualicoatManager.Domain.pdb
+C:\Code\C#\QualicoatManager\QualicoatManager.Domain\obj\Debug\net8.0\ref\QualicoatManager.Domain.dll

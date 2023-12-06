@@ -1,0 +1,14 @@
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\bin\Debug\net7.0\QualicoatManager.Data.deps.json
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\bin\Debug\net7.0\QualicoatManager.Data.runtimeconfig.json
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\bin\Debug\net7.0\QualicoatManager.Data.dll
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\bin\Debug\net7.0\QualicoatManager.Data.pdb
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.csproj.AssemblyReference.cache
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.AssemblyInfoInputs.cache
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.AssemblyInfo.cs
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.csproj.CoreCompileInputs.cache
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.dll
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\refint\QualicoatManager.Data.dll
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.pdb
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\QualicoatManager.Data.genruntimeconfig.cache
+C:\Code\C#\QualicoatManagerLib\QualicoatManagerLib\obj\Debug\net7.0\ref\QualicoatManager.Data.dll
